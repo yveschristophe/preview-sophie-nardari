@@ -126,14 +126,14 @@ export function App() {
                 <path d="M-30 80 550 240M70-20 210 470M420-40 275 470" stroke="#f4f1e8" strokeWidth="34" />
                 <path d="M-20 330 540 50M25 425 480 10" stroke="#ebe5d7" strokeWidth="14" />
                 <path d="M0 195 520 390" stroke="#d1c9b8" strokeWidth="2" strokeDasharray="4 8" />
-                <text x="330" y="115" fill="#69685c" fontSize="17" fontFamily="Arial">Rangueil</text>
-                <text x="45" y="360" fill="#69685c" fontSize="16" fontFamily="Arial">Saint-Agne</text>
+                <text x="330" y="115" fill="#69685c" fontSize="19" fontFamily="Arial">Rangueil</text>
+                <text x="45" y="360" fill="#69685c" fontSize="18" fontFamily="Arial">Saint-Agne</text>
                 <circle cx="285" cy="212" r="21" fill="#292b27" />
                 <path d="M285 238c-15-20-23-32-23-44a23 23 0 1 1 46 0c0 12-8 24-23 44Z" fill="#292b27" />
                 <circle cx="285" cy="193" r="6" fill="#f4f1e8" />
                 <rect x="20" y="374" width="188" height="42" rx="2" fill="#f5f2e9" />
-                <text x="35" y="391" fill="#777568" fontSize="9" letterSpacing="2" fontFamily="Arial">CABINET RANGUEIL</text>
-                <text x="35" y="407" fill="#292b27" fontSize="11" fontFamily="Arial">1 avenue de Rangueil</text>
+                <text x="35" y="391" fill="#777568" fontSize="17" letterSpacing="2" fontFamily="Arial">CABINET RANGUEIL</text>
+                <text x="35" y="410" fill="#292b27" fontSize="20" fontFamily="Arial">1 avenue de Rangueil</text>
               </svg>
               <span className="map-open">Ouvrir le plan ↗</span>
             </a>
